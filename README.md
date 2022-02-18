@@ -10,8 +10,6 @@ Using VS code, the webpage was refactored to:
 
 - Added Comments
 
-- Added Favicon
-
 - Condensed css stylesheet
 
 ## Site Preview:
