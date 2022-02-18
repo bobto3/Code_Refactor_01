@@ -8,6 +8,7 @@ body {
   background-color: #d9dcd6;
 }
 
+/* Header Styling */
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -25,6 +26,7 @@ header h1 .seo {
   color: #d9dcd6;
 }
 
+/* Navigation bar styling */
 header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -42,15 +44,18 @@ header nav ul li {
   margin-left: 25px;
 }
 
+/* link styling */
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
+/* paragraph font size */
 p {
   font-size: 16px;
 }
 
+/* hero image formatting */
 .hero {
   height: 800px;
   width: 100%;
@@ -76,6 +81,7 @@ p {
   margin-left: 20px;
 }
 
+/* benefits bar section styling */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -103,6 +109,7 @@ p {
   max-width: 150px;
 }
 
+/* main section styling */
 .main-section {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,51 +119,16 @@ p {
   color: #ffffff;
 }
 
-/* .online-reputation-management {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-}
-
-.social-media-marketing {
-  margin-bottom: 20px;
-  padding: 50px;
-  height: 300px;
-  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
-  background-color: #0072bb;
-  color: #ffffff;
-} */
-
 .main-section img {
   max-height: 200px;
 }
-
-/* .online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-} */
 
 .main-section h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
-/* .online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-} */
-
+/* footer styling */
 .footer {
   padding: 30px;
   clear: both;
